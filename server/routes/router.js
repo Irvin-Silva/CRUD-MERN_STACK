@@ -3,6 +3,7 @@ const router = express.Router();
 const users = require("../models/userSchema");
 
 
+
 // router.get("/",(req,res)=>{
 //     console.log("Conectado")
 // });
